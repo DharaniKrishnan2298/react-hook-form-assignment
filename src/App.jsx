@@ -1,6 +1,6 @@
 import React from "react";
 import AdvancedForm from "./components/AdvancedForm";
-import "./index.css"; // Ensure CSS is imported
+import "./index.css";
 
 const App = () => {
   return (
